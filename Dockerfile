@@ -1,4 +1,4 @@
-FROM nrshrivatsan/java-build-tools
+FROM cloudbees/java-build-tools
 
 USER root
 
